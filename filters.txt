@@ -1,0 +1,5 @@
+/(.*)?\.ppomppu([0-9]+)?\.co\.kr/
+*://*.clien.net/*
+*://*.danawa.com/*
+*://*.softonic.kr/*
+*://*.instiz.net/*
